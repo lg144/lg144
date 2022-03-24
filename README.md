@@ -1,11 +1,13 @@
 - 👋 Hi, I’m @lg144
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in cyber security, ethical hacking, software development and game development.
+- 🌱 I’m currently learning Swift.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 
-This is Coil, see Coil roll,   
+This is Coil, I created him :yellow_heart:
+
+See Coil roll,   
 
 ![](https://media.giphy.com/media/5KyT0LK5oD1G9Y5RL7/giphy.gif)
 
